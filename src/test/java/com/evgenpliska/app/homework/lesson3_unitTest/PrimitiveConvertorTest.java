@@ -1,6 +1,6 @@
-package com.vitaliy1991.app.homework.lesson3_unitTest;
+package com.evgenpliska.app.homework.lesson3_unitTest;
 
-import com.vitaliy1991.app.homework.utils.convertors.PrimitiveConvertor;
+import com.evgenpliska.app.homework.utils.convertors.PrimitiveConvertor;
 import org.junit.Assert;
 import org.junit.Test;
 

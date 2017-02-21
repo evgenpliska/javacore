@@ -1,4 +1,4 @@
-package com.vitaliy1991.app.homework.lesson3_unitTest;
+package com.evgenpliska.app.homework.lesson3_unitTest;
 
 /**
  * Created by vitor on 11-Feb-17.

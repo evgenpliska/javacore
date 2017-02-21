@@ -1,4 +1,4 @@
-package com.vitaliy1991.app.сlasswork.lesson4.biggerNumber;
+package com.evgenpliska.app.сlasswork.lesson4.biggerNumber;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
-package com.vitaliy1991.app.classwork.lesson3;
+package com.evgenpliska.app.classwork.lesson3;
 
-import com.vitaliy1991.app.сlasswork.lesson3.Unit_test_classwork.MathFunc;
+import com.evgenpliska.app.сlasswork.lesson3.Unit_test_classwork.MathFunc;
 import org.junit.Assert;
 import org.junit.Test;
 

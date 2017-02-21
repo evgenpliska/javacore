@@ -1,4 +1,4 @@
-package com.vitaliy1991.app.homework.lesson3_unitTest;
+package com.evgenpliska.app.homework.lesson3_unitTest;
 
 import org.junit.Assert;
 import org.junit.Test;

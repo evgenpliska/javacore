@@ -1,4 +1,4 @@
-package com.vitaliy1991.app.сlasswork.lesson4.triangle.myCheck;
+package com.evgenpliska.app.сlasswork.lesson4.triangle.myCheck;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.vitaliy1991.app.сlasswork.lesson4.task;
+package com.evgenpliska.app.сlasswork.lesson4.task;
 
 import com.vitaliy1991.app.сlasswork.lesson4.biggerNumber.BiggerNumber;
 import com.vitaliy1991.app.сlasswork.lesson4.circleArea.CircleArea;

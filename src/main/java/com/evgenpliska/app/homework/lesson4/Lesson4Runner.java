@@ -1,8 +1,8 @@
-package com.vitaliy1991.app.homework.lesson4;
+package com.evgenpliska.app.homework.lesson4;
 
-import com.vitaliy1991.app.сlasswork.lesson4.biggerNumber.BiggerNumber;
-import com.vitaliy1991.app.сlasswork.lesson4.circleArea.CircleArea;
-import com.vitaliy1991.app.сlasswork.lesson4.triangle.myCheck.TriangleAngel;
+import com.evgenpliska.app.сlasswork.lesson4.biggerNumber.BiggerNumber;
+import com.evgenpliska.app.сlasswork.lesson4.circleArea.CircleArea;
+import com.evgenpliska.app.сlasswork.lesson4.triangle.myCheck.TriangleAngel;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

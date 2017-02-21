@@ -1,4 +1,4 @@
-package com.vitaliy1991.app.сlasswork.lesson4.triangle.triangleClasswork;
+package com.evgenpliska.app.сlasswork.lesson4.triangle.triangleClasswork;
 
 /**
  * Created by vitor on 16-Feb-17.

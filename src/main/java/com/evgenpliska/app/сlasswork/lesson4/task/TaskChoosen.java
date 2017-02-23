@@ -1,8 +1,8 @@
 package com.evgenpliska.app.сlasswork.lesson4.task;
 
-import com.vitaliy1991.app.сlasswork.lesson4.biggerNumber.BiggerNumber;
-import com.vitaliy1991.app.сlasswork.lesson4.circleArea.CircleArea;
-import com.vitaliy1991.app.сlasswork.lesson4.triangle.myCheck.TriangleAngel;
+import com.evgenpliska.app.сlasswork.lesson4.biggerNumber.BiggerNumber;
+import com.evgenpliska.app.сlasswork.lesson4.circleArea.CircleArea;
+import com.evgenpliska.app.сlasswork.lesson4.triangle.myCheck.TriangleAngel;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
-package com.vitaliy1991.app.homework.utils.runners;
+package com.evgenpliska.app.homework.utils.runners;
 
-import com.vitaliy1991.app.homework.utils.convertors.PrimitiveConvertor;
+import com.evgenpliska.app.homework.utils.convertors.PrimitiveConvertor;
 
 /**
  * Created by vitor on 02-Feb-17.

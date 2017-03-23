@@ -1,4 +1,4 @@
-package com.evgenpliska.app.utils.runners;
+package com.evgenpliska.runners;
 
 import com.evgenpliska.app.utils.convertors.PrimitiveConvertor;
 

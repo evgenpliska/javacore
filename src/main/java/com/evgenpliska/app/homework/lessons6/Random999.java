@@ -1,4 +1,4 @@
-package com.evgenpliska.runners.homework;
+package com.evgenpliska.app.homework.lessons6;
 
 import java.util.Random;
 
@@ -29,4 +29,4 @@ public class Random999 {
     }
 }
 
-}
+

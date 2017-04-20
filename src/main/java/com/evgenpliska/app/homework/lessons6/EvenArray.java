@@ -1,4 +1,4 @@
-package com.evgenpliska.runners.homework;
+package com.evgenpliska.app.homework.lessons6;
 
 /**
  * Created by User on 29.03.2017.
@@ -19,4 +19,4 @@ public class EvenArray {
         }
     }
 }
-}
+
